@@ -162,3 +162,6 @@ cython_debug/
 #.idea/
 Linear_Algebra_1_files
 *.html
+.DS_Store
+scripts/Linear_Algebra_R_files/
+scripts/Linear_Algebra_R.quarto_ipynb
